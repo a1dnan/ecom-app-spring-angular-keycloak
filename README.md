@@ -1,6 +1,6 @@
 #### Spring Angular Keycloak
 
-une application qui permet de gérer des produits. l'application se compose des services suivants :
+Une application permettant de gérer des produits, composée des services suivants :
 
 - Un micro service qui permet de gérer des produits
 - Une application frontend basée sur angular
